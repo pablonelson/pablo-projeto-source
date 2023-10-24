@@ -4,6 +4,47 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
+<img src = "dev2.gif" width = "350px" align = "right">
+
+# ❤ Oie, eu sou o Pablo!
+
+  <div id="badges">
+  <a href = "https://www.linkedin.com/in/pablo-nelson-984a13289/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/pablonelson?tab=repositories)
+
+</div>
+
+Sou um programador iniciante, amo jogar, estudar e treinar!
+
+- ❤ Estudante de Gestão da Tecnologia da Informação
+- 💙 Amo me aventura em novos desafios!
+- 👩‍💻 Entrei na programação recentemente e acabei gostando de front-end. É quero ficar cada vez melhor
+
+---
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
+
+Python ainda estou em fase de aprendizado iniciei essa linguagem faz umas semanas
+
+---
+
+HTML eu já sei o básico tenho um site feito 
+
+---
+
+Css sei o básico
+
+---
+ 
+Logo abaixo está um repositorio que e para aprendizado, mas não e meu https://github.com/digitalinnovationone/dio-lab-open-source peguei desse repositoro da Elidiana por um projeto da DIO 
+
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
